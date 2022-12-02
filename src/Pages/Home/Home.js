@@ -1,10 +1,11 @@
 import React from 'react';
+import ServicOptions from './ServicOptions';
 
 const Home = () => {
     return (
-        <div>
-            <h1>this si home</h1>
-        </div>
+        <>
+        <ServicOptions></ServicOptions>
+        </>
     );
 };
 
