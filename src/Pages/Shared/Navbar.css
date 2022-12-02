@@ -1,0 +1,20 @@
+.link {
+    text-decoration: none;
+    color: powderblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+.link:hover {
+    color: #bd4037;
+}
+
+.link_sidebar {
+    text-decoration: none;
+    color: White;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.link_sidebar:hover {
+    color: #bd4037;
+}
