@@ -5,7 +5,7 @@ import wedding from "../../Assets/wedding.jpg";
 
 const ServicOptions = () => {
   return (
-    <section>
+    <section className="bg_img">
       <div className="row container mx-auto my-5">
         <div className="col-12 col-lg-4">
           <img className="img-fluid" src={preWedding} alt="" />
