@@ -20,7 +20,6 @@ const ServicOptions = () => {
           <h3 className="text-center mt-2">Fashion</h3>
         </div>
       </div>
-      <h3 className="text-center">Wedding Portfolio</h3>
     </section>
   );
 };

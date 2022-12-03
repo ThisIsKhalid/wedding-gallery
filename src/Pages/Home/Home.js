@@ -1,12 +1,16 @@
 import React from "react";
 import footerImg from "../../Assets/footer (1).jpg";
+import "./Home.css";
+import ImportantToUs from "./ImportantToUs";
 import ServicOptions from "./ServicOptions";
-import './Home.css'
+import WeddingPortfolio from "./WeddingPortfolio";
 
 const Home = () => {
   return (
     <section>
       <ServicOptions></ServicOptions>
+      <WeddingPortfolio></WeddingPortfolio>
+      <ImportantToUs></ImportantToUs>
       <div className="mt-5 bg_img pb-3 px-2">
         <img className="img-fluid" src={footerImg} alt="" />
         <div className="container text-center mt-4 lg-px-3">
